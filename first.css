@@ -1,0 +1,23 @@
+html,
+body {
+background-color: antiquewhite;
+height: 100%;
+font-family: "Open Sans", sans-serifS;
+color: rgb(241, 127, 74);
+}
+h1 {
+font-size: 40px;
+font-weight: bold;
+}
+h2 {
+font-size: 36px;
+font-weight: bold;
+}
+p {
+font-size: 13px;
+font-weight:bolder;
+color:black;
+line-height: 2;
+}
+img {
+max-width: 100%;
